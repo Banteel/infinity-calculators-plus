@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-# InfintyNow Calculator (InfinityLater)
+# InfinityNow Calculator (InfinityNow Calc)
 # based on Copyright (c)
 
-#        Copyright (c) 2025 (InfintyNow Calculator), Copyright (c) 2027 (InfintyNow Calculator) Trevor McQuaker
+#        Copyright (c) 2025 (InfinityNow Calculator), Copyright (c) 2027 (InfintyNow Calculator) Trevor McQuaker
 # All rights reserved.
 
 # Redistribution and use in source and binary forms, with or without
@@ -24,7 +24,7 @@
 
 
 #         A Sub-calculator named:
-#        "InfintyNow Calculator (InfinityLater)"
+#        "InfinityNow Calculator (InfinityNow Calc)"
 #        The sub-calculator located here in the Python file is the results of sub-calculations derived with calculations using two seporate equations performing the same full equation results, for the two full calculations in this coded Python file is always consistently equals number One.
 
 import os
@@ -191,7 +191,7 @@ def InfinityNowCalculator():
 #		else:
 #			os.system('clear')
 					
-		print('\n   "InfintyNow Calculator" script closed.\n')
+		print('\n   "InfinityNow Calculator" script closed.\n')
 
 if __name__ == "__main__":
         InfinityNowCalculator()
